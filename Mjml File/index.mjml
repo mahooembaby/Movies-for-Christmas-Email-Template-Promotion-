@@ -1,0 +1,123 @@
+<mjml>
+  <mj-body background-color="#fff">
+    <!-- Start Banner Section -->
+    <mj-section background-url="https://i.ibb.co/hX47w6S/banner.png" background-repeat="no-repeat" background-size="cover">
+      <mj-column>
+        <mj-text font-size="35px" color="#fff" padding-top="150px" padding-bottom="0" text-transform="capitalize" font-weight="500">movie name</mj-text>
+        <mj-text font-size="20px" letter-spacing="-3px" color="#fff" padding-bottom="0">⭐⭐⭐⭐⭐</mj-text>
+        <mj-text font-size="15px" color="#fff" line-height="20px" font-weight="100" padding-bottom="15px">lorem ipsum is simply dummy text of the<br />printing and type setting industry. lorem ipsum been the industry</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+    <!-- Start Navbar Section -->
+    <mj-section background-color="#0c2738">
+      <mj-column width="30%">
+        <mj-text font-size="20px" color="#fff" padding-top="15px" align="center">
+          <a href="#" style="color:#fff;text-transform:capitalize;font-size:20px">movie review</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="70%">
+        <mj-navbar align="center">
+          <mj-navbar-link href="#1" color="#fff" text-transform="capitalize" font-weight="100" padding-right="15px">home</mj-navbar-link>
+          <mj-navbar-link href="#2" color="#fff" text-transform="capitalize" font-weight="100" padding-right="15px">page</mj-navbar-link>
+          <mj-navbar-link href="#3" color="#fff" text-transform="capitalize" font-weight="100" padding-right="15px">about us</mj-navbar-link>
+          <mj-navbar-link href="#4" color="#fff" text-transform="capitalize" font-weight="100" padding-right="0">contact us</mj-navbar-link>
+        </mj-navbar>
+      </mj-column>
+    </mj-section>
+    <!-- End Navbar Section -->
+    <!-- Start About The Website Section -->
+    <mj-section background-color="#091b27">
+      <mj-column width="60%">
+        <mj-text font-size="30px" font-weight="400" text-transform="capitalize" padding-top="40px" color="#fff">highlights today</mj-text>
+        <mj-text font-size="13px" padding-bottom="15px" line-height="20px" font-weight="100" color="#fff">lorem ipsum is simply dummy text of the printing<br /> and type setting industry.</mj-text>
+      </mj-column>
+      <mj-column width="40%">
+        <mj-button href="#" padding-top="60px" width="80%" inner-padding="10px 15px" text-transform="capitalize" font-weight="100" background-color="#f0ae00">view all</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- End About The Website Section -->
+    <!-- Start Images Scrolling Section -->
+    <mj-section background-color="#091b27" padding-top="0" padding-bottom="0" padding-left="0" padding-right="0" border="0">
+      <!-- First Image -->
+      <mj-column>
+        <mj-image href="#" border="0" padding-top="10px" padding-bottom="0" padding-left="10px" padding-right="5px" src="https://i.ibb.co/WH9DBZW/pic-1.png" width="150px"></mj-image>
+        <mj-text font-size="19px" font-weight="500" color="#fff" padding-top="20px" text-transform="capitalize" padding-left="15px" align="center">movie name</mj-text>
+        <mj-text font-size="14px" color="#fff" letter-spacing="-3px" padding-left="15px" padding-top="0px" align="center">⭐⭐⭐⭐⭐</mj-text>
+        <mj-text font-size="14px" color="#fff" padding-bottom="15px" padding-left="15px" line-height="18px" text-transform="capitalize" font-weight="100" align="center">this is a new text block<br /> change the text.</mj-text>
+      </mj-column>
+      <!-- Second Image -->
+      <mj-column>
+        <mj-image href="#" border="0" padding-top="10px" padding-bottom="0" padding-left="10px" padding-right="5px" src="https://i.ibb.co/ctCy5QJ/pic-2.png" width="150px"></mj-image>
+        <mj-text font-size="19px" font-weight="500" color="#fff" padding-top="20px" text-transform="capitalize" padding-left="15px" align="center">movie name</mj-text>
+        <mj-text font-size="14px" color="#fff" letter-spacing="-3px" padding-left="15px" padding-top="0px" align="center">⭐⭐⭐⭐⭐</mj-text>
+        <mj-text font-size="14px" color="#fff" padding-bottom="15px" padding-left="15px" line-height="18px" text-transform="capitalize" font-weight="100" align="center">this is a new text block<br /> change the text.</mj-text>
+      </mj-column>
+      <!-- Third Image -->
+      <mj-column>
+        <mj-image href="#" border="0" padding-top="10px" padding-bottom="0" padding-left="10px" padding-right="5px" src="https://i.ibb.co/XSNnTnD/pic-3.png" width="150px"></mj-image>
+        <mj-text font-size="19px" font-weight="500" color="#fff" padding-top="20px" text-transform="capitalize" padding-left="15px" align="center">movie name</mj-text>
+        <mj-text font-size="14px" color="#fff" letter-spacing="-3px" padding-left="15px" padding-top="0px" align="center">⭐⭐⭐⭐⭐</mj-text>
+        <mj-text font-size="14px" color="#fff" padding-bottom="15px" padding-left="15px" line-height="18px" text-transform="capitalize" font-weight="100" align="center">this is a new text block<br /> change the text.</mj-text>
+      </mj-column>
+      <!-- Four Image -->
+      <mj-column>
+        <mj-image href="#" border="0" padding-top="10px" padding-bottom="0" padding-left="10px" padding-right="5px" src="https://i.ibb.co/fMXrTDR/pic-4.png" width="150px"></mj-image>
+        <mj-text font-size="19px" font-weight="500" color="#fff" padding-top="20px" text-transform="capitalize" padding-left="15px" align="center">movie name</mj-text>
+        <mj-text font-size="14px" color="#fff" letter-spacing="-3px" padding-left="15px" padding-top="0px" align="center">⭐⭐⭐⭐⭐</mj-text>
+        <mj-text font-size="14px" color="#fff" padding-bottom="15px" padding-left="15px" line-height="18px" text-transform="capitalize" font-weight="100" align="center">this is a new text block<br /> change the text.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Images Scrolling Section -->
+    <!-- Start Background Image Section -->
+    <mj-section background-url="https://i.ibb.co/3k5CCf2/background-section.png" background-repeat="no-repeat" background-size="cover">
+      <mj-column>
+        <mj-text font-size="35px" color="#fff" padding-top="150px" padding-bottom="0" text-transform="capitalize" font-weight="500">movie name</mj-text>
+        <mj-text font-size="20px" letter-spacing="-3px" color="#fff" padding-bottom="0">⭐⭐⭐⭐⭐</mj-text>
+        <mj-text font-size="14px" color="#fff" line-height="20px" font-weight="100" padding-bottom="15px">lorem ipsum is simply dummy text of the<br />printing and type setting industry. lorem ipsum been the industry</mj-text>
+        <mj-button href="#" align="left" width="50%" padding-top="15px" padding-bottom="25px" background-color="#f0ae00" text-transform="capitalize" font-weight="100" inner-padding="10px 15px">watch now</mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- End Banner Section -->
+    <!-- Start New Releases Section -->
+    <mj-section background-color="#0c2738" padding-bottom="0">
+      <mj-column>
+        <mj-text font-size="35px" text-transform="capitalize" color="#fff" padding-top="60px" align="center">new releases</mj-text>
+        <mj-text font-size="14px" align="center" font-weight="100" line-height="20px" text-transform="capitalize" color="#fff">lorem ipsum is simply dummy text of the printing and type setting industry.<br /> lorem ipsum been the industry.</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End New Releases Section -->
+    <!-- Start Two Pictures Section -->
+    <mj-section background-color="#0c2738" padding-top="0" padding-bottom="50px">
+      <!-- First Picture -->
+      <mj-column>
+        <mj-image href="#" src="https://i.ibb.co/XthrV6q/pic-5.png" border="0" padding-top="10px" padding-bottom="0" padding-left="15px" padding-right="10px"></mj-image>
+        <mj-text font-size="18px" color="#fff" align="center" padding-top="30px" font-weight="100" text-transform="capitalize">movie name</mj-text>
+      </mj-column>
+      <!-- Second Picture -->
+      <mj-column>
+        <mj-image href="#" src="https://i.ibb.co/DkPVWHM/pic-6.png" border="0" padding-top="10px" padding-bottom="0" padding-left="10px" padding-right="15px"></mj-image>
+        <mj-text font-size="18px" color="#fff" align="center" padding-top="30px" font-weight="100" text-transform="capitalize">movie name</mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End Two Pictures Section -->
+    <!-- Start Footer Section -->
+    <mj-section background-color="#091b27">
+      <mj-column>
+        <mj-text align="center" padding-top="35px">
+          <div>
+            <a href="#"><img src="https://i.ibb.co/tJ9ZLvm/facebook.png" style="width:30px;margin-right:6px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/FBsvvc0/linkedin.png" style="width:30px;margin-right:6px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/fv5PDbj/instagram.png" style="width:30px;margin-right:6px;" /></a>
+            <a href="#"><img src="https://i.ibb.co/v1mzmZt/x.png" style="width:30px;margin-right:6px;" /></a>
+          </div>
+        </mj-text>
+        <mj-text align="center" font-size="14px" text-transform="uppercase" color="#fff" font-weight="100" line-height="20px">unsubscribe | privacy policy | web</mj-text>
+        <mj-text align="center" font-size="12px" text-transform="capitalize" color="#fff" font-weight="100" line-height="20px" padding-bottom="25px">lorem ipsum dolor sit amet. consectetur adipiscing elit, sed<br /> do eiusmod tempor incididunt ut labore.</mj-text>
+        <mj-divider width="100%" padding-left="0" padding-right="0" padding-bottom="25px" border-color="#fff" border-width="1px" border-style="solid"></mj-divider>
+        <mj-image href="#" src="https://i.ibb.co/NVHBnqR/made-logo-white.png" width="110px" align="center" padding-bottom="35px"></mj-image>
+      </mj-column>
+    </mj-section>
+    <!-- End Footer Section -->
+  </mj-body>
+</mjml>
